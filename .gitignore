@@ -1,0 +1,27 @@
+# Dataset files
+IMDB_reviews.json
+IMDB_movie_details.json
+data/
+
+# Generated outputs, model weights, and manual review files
+spoiler_outputs/
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Local credentials
+.env
+.env.*
+
+# macOS files
+.DS_Store
+._*
