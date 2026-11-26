@@ -90,7 +90,7 @@ These constructed examples illustrate inference and do not constitute evaluation
 
 ## Running the notebook
 
-Use `MGSC673_IMDb_Spoiler_Detection_Interpreted.ipynb`. Place `IMDB_reviews.json` and, optionally, `IMDB_movie_details.json` beside the notebook, matching `DATA_DIR = Path('.')`. Relative paths resolve against the kernel's current working directory. JSON arrays and JSON Lines are supported. Raw data is acquired separately under the provider's terms.
+Use `IMDb_Spoiler_Detection.ipynb`. Place `IMDB_reviews.json` and, optionally, `IMDB_movie_details.json` beside the notebook, matching `DATA_DIR = Path('.')`. Relative paths resolve against the kernel's current working directory. JSON arrays and JSON Lines are supported. Raw data is acquired separately under the provider's terms.
 
 Install the project dependencies into the notebook's Python environment:
 
